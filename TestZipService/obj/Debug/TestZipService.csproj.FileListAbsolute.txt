@@ -1,0 +1,6 @@
+E:\ASPII\Assignments\Services\TestZipService\TestZipService\bin\TestZipService.dll.config
+E:\ASPII\Assignments\Services\TestZipService\TestZipService\bin\TestZipService.dll
+E:\ASPII\Assignments\Services\TestZipService\TestZipService\bin\TestZipService.pdb
+E:\ASPII\Assignments\Services\TestZipService\TestZipService\obj\Debug\TestZipService.csprojResolveAssemblyReference.cache
+E:\ASPII\Assignments\Services\TestZipService\TestZipService\obj\Debug\TestZipService.dll
+E:\ASPII\Assignments\Services\TestZipService\TestZipService\obj\Debug\TestZipService.pdb
